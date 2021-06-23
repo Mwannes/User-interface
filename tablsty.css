@@ -1,0 +1,47 @@
+body{
+background-image:url("cricuit2.jpg");
+margin:0;
+padding:0;
+}
+.tab{
+margin-top:200px;
+width:400px;
+height:200px;
+margin-left:400px;
+float:center;font-size:18px;
+}
+.tab,th,td{
+border:1px solid #000;
+border-collapse: collapse;}
+ht,td{
+	padding:10px;
+}
+tr:nth-child(1){
+	background-color:#919F9F;color:white;
+	text-align:center;
+}
+tr:nth-child(2){
+	background-color:#16ACAC;color:white;
+	text-align:center;
+}
+.run{
+	margin-top:200px;
+width:100px;
+height:100px;
+margin-left:600px;
+float:center;font-size:18px;
+}
+.run,th,td{
+border:1px solid #000;
+border-collapse: collapse;}
+ht,td{
+	padding:20px;
+}
+.run tr:nth-child(1){
+	background-color:blue;color:white;
+	text-align:center;
+}
+.run tr:nth-child(2){
+	background-color:red;color:white;
+	text-align:center;
+}
